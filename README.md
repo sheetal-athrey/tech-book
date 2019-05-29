@@ -2,7 +2,7 @@
 
 The purpose of this book is to serve as a primer on this generation's biggest technological revolutions, and to prepare those interacting with these technologies with a digestible repository of distilled, relevant technical knowledge.
 
-# Strucutre
+# Structure
 
 ## The New Revolutions
 
@@ -12,11 +12,11 @@ This section aims to discuss broad social axes along which massive change is bei
 - AV
 - Robotics
 - Micromobility
-  
+
 ### How We Exchange Value
 - fintech
 - blockchain
-  
+
 ### How We Interact with Our Environment
 - VR/AR
 - IoT
@@ -30,4 +30,4 @@ This section discusses the supporting core structures upon which this progress i
 
 ### Big Data
 
-### Aritificial Intelligence and Machine Learning
+### Artificial Intelligence and Machine Learning
