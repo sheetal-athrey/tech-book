@@ -28,6 +28,9 @@ This section discusses the supporting core structures upon which this progress i
 
 ### Cloud
 
+[cloud](value/cloud.md)
+
+
 ### Big Data
 
 ### Artificial Intelligence and Machine Learning
